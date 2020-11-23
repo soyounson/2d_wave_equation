@@ -6,7 +6,7 @@
 ### Run python code (...update soon)
 open your terminal
 ```
-(base) python 2D_wave_equation.py
+(base) python 2d_wave_equation.py
 ```
 ### Run python code
 open your terminal
